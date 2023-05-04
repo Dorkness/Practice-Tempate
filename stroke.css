@@ -119,3 +119,6 @@ hr{
     margin-left: 35px;
     margin-bottom: 10px;
 }
+ol{
+    list-style-position: inside;
+}
